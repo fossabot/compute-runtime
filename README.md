@@ -1,4 +1,6 @@
 # Intel(R) Graphics Compute Runtime for OpenCL(TM)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmnirgude%2Fcompute-runtime.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmnirgude%2Fcompute-runtime?ref=badge_shield)
+
 
 ## Introduction
 
@@ -14,6 +16,9 @@ motivation and intentions wrt OpenCL support in the open source.
 The Intel(R) Graphics Compute Runtime for OpenCL(TM) is distributed under the MIT License.
 
 You may obtain a copy of the License at: https://opensource.org/licenses/MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmnirgude%2Fcompute-runtime.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmnirgude%2Fcompute-runtime?ref=badge_large)
 
 ## Dependencies
 
